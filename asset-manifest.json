@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/circular-carousel/static/css/main.fdbc8f61.css",
+    "main.js": "/circular-carousel/static/js/main.360a747d.js",
+    "static/js/787.635558bd.chunk.js": "/circular-carousel/static/js/787.635558bd.chunk.js",
+    "index.html": "/circular-carousel/index.html",
+    "main.fdbc8f61.css.map": "/circular-carousel/static/css/main.fdbc8f61.css.map",
+    "main.360a747d.js.map": "/circular-carousel/static/js/main.360a747d.js.map",
+    "787.635558bd.chunk.js.map": "/circular-carousel/static/js/787.635558bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdbc8f61.css",
+    "static/js/main.360a747d.js"
+  ]
+}
